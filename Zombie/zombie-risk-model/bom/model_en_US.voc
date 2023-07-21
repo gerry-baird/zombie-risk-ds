@@ -1,4 +1,10 @@
 
+# gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Test
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Test#concept.label = test
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Test.Test(java.lang.String)#phrase.navigation = a new {test} where {0, name}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Test.name#phrase.action = set the name of {this} to {name}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Test.name#phrase.navigation = {name} of {this}
+
 # gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk
 gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk#concept.label = zombie-risk
 gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.Zombie$risk(java.lang.String,java.lang.String,java.lang.Long)#phrase.navigation = a new {zombie-risk} where {0, location} {1, message} {2, risk}

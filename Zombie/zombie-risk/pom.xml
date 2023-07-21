@@ -37,6 +37,11 @@
 
 <dependencies>
         <dependency>
+            <groupId>gerry.baird_uk.ibm.com.gb_test.zombie</groupId>
+            <artifactId>zombie-Risk-Model</artifactId>
+            <version>LATEST-SNAPSHOT</version>
+        </dependency>
+        <dependency>
             <groupId>com.ibm.decision</groupId>
             <artifactId>engine-compact-runtime</artifactId>
         </dependency>

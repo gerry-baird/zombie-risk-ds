@@ -19,10 +19,11 @@
         <extensionElements>
             <ruleset xmlns="http://www.ibm.com/spec/ODM/dmn.xsd" conflictResolution="sequence">
                 <input bomType="java.lang.String" collection="false" name="location"/>
-                <output bomType="java.lang.String" collection="false" name="Decision"/>
+                <output bomType="gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk" collection="false" name="Decision"/>
+                <rule defaultRule="true" href="node_1/output-default-setting.drl" kind="BusinessRule" name="output-default-setting"/>
             </ruleset>
         </extensionElements>
-        <variable id="node_1_ii" name="Decision" typeRef="java.lang.String"/>
+        <variable id="node_1_ii" name="Decision" typeRef="gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk"/>
         <informationRequirement>
             <requiredInput href="#node_0"/>
         </informationRequirement>
