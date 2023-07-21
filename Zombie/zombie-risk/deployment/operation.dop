@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="zombie-risk">
+  <name>zombie-risk</name>
+  <uuid>9cdbb4cd-26d0-4cdd-9aef-31cd62a24c42</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#6bc82ae3-c656-4faa-95a2-19815985f42a"/>
+  <targetRuleProject href="../../zombie-risk#935997fc-de9f-4bb0-b395-2b627aca1515"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>

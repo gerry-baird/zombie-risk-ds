@@ -1,0 +1,12 @@
+
+# gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk#concept.label = zombie-risk
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.Zombie$risk(java.lang.String,java.lang.String,java.lang.Long)#phrase.navigation = a new {zombie-risk} where {0, location} {1, message} {2, risk}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.location#phrase.action = set the location of {this} to {location}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.location#phrase.navigation = {location} of {this}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.message#phrase.action = set the message of {this} to {message}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.message#phrase.navigation = {message} of {this}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.risk#phrase.action = set the risk of {this} to {risk}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.risk#phrase.addition_setter = add {risk} to the risk of {this}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.risk#phrase.navigation = {risk} of {this}
+gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk.risk#phrase.subtraction_setter = subtract {risk} from the risk of {this}
