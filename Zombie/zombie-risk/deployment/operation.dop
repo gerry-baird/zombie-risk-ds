@@ -8,7 +8,7 @@
     <value><![CDATA[""]]></value>
   </tags>
   <tags key="operationName">
-    <value><![CDATA["zombie-risk"]]></value>
+    <value><![CDATA["zombierisk"]]></value>
   </tags>
   <tags key="exposedAtRuntime">
     <value><![CDATA[true]]></value>
