@@ -21,6 +21,7 @@
                 <input bomType="java.lang.String" collection="false" name="location"/>
                 <output bomType="gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk" collection="false" name="Decision"/>
                 <rule defaultRule="true" href="node_1/output-default-setting.drl" kind="BusinessRule" name="output-default-setting"/>
+                <rule defaultRule="false" href="node_1/Zombie%20Risk%20Score.dmt" kind="DecisionTable" name="Zombie Risk Score"/>
             </ruleset>
         </extensionElements>
         <variable id="node_1_ii" name="Decision" typeRef="gerry.baird_uk.ibm.com.gb_test.zombie.zombe_risk.Zombie$risk"/>
