@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
   <name>output-default-setting</name>
-  <uuid>f16dd08c-9fc6-4709-a180-60db54484cd2</uuid>
+  <uuid>6295af8a-597e-43df-8823-9ae2f5aafe57</uuid>
   <locale>en_US</locale>
-  <definition><![CDATA[set decision to 42 ;]]></definition>
+  <definition><![CDATA[set decision to a new zombie-risk where
+		the location is "London" , 
+		the message is "Keep calm and drink tea" , 
+		the risk is 42 ;]]></definition>
 </ilog.rules.studio.model.brl:ActionRule>
